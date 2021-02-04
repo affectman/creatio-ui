@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongodb": "mongodb+srv://affectman:IoV1997106@cluster0.rx7sr.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "parampampam"
+}
